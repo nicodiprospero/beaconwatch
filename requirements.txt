@@ -1,0 +1,5 @@
+Flask
+Flask-Cors
+stix2
+numpy
+pandas
